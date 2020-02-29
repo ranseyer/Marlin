@@ -1,5 +1,10 @@
 # Marlin 3D Printer Firmware
 
+Configured for Sovol SV01 and SKR 1.3 Board with TMC2208, BL-Touch Clone.
+This will not work !
+
+Work in Progress !
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
